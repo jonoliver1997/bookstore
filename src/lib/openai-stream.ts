@@ -55,7 +55,6 @@ export async function OpenAIStream(payload: OpenAIStreamPayload) {
             if (counter < 2 && (text.match(/\n/) || []).length) {
               return;
             }
-
             const queue = encoder.encode(text);
             controller.enqueue(queue);
 
