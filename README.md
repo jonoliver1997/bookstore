@@ -1,3 +1,6 @@
+This is a mock online bookstore website with an AI chatbot.
+Live Link: https://mystical-bookshelf-ai-chatbot.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
